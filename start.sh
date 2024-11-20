@@ -1,1 +1,1 @@
-browservice.AppImage --appimage-extract-and-run --vice-opt-http-listen-addr=0.0.0.0:80
+./browservice.AppImage --appimage-extract-and-run --vice-opt-http-listen-addr=0.0.0.0:80
